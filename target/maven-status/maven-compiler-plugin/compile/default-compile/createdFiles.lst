@@ -4,8 +4,8 @@ models\Reparto.class
 dao\DAO.class
 models\Genero.class
 models\Suscripcion.class
+dao\SuscripcionDAO.class
 models\Pais.class
-dao\ClasificacionDAO.class
 models\Cuenta.class
 models\Factura.class
 models\Filmografia.class
@@ -13,6 +13,7 @@ models\Acceso.class
 dao\FilmografiaDAO.class
 models\Clasificacion.class
 com\mycompany\mavenproject1\Main.class
+dao\RepartoDAO.class
 dao\PaisDAO.class
 models\Tipo_suscripcion.class
 configuracion\Logger.class

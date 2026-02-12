@@ -1,10 +1,11 @@
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\Main.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\configuracion\Logger.java
-C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\ClasificacionDAO.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\DAO.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\FilmografiaDAO.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\GeneroDAO.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\PaisDAO.java
+C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\RepartoDAO.java
+C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\dao\SuscripcionDAO.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\DbManager\DatabaseManager.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\models\Acceso.java
 C:\Users\User\Documents\NetBeansProjects\mavenproject1\src\main\java\models\Clasificacion.java
