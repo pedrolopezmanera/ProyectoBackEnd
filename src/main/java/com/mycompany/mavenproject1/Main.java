@@ -35,6 +35,11 @@ public class Main {
         //Pais pais1 = new Pais ("Alemania");
         //Pais pais2 = new Pais("Holanda");
         
+        RepartoDAO repartoDAO = new RepartoDAO(conexion);
+        
+        SuscripcionDAO suscripcionDAO = new SuscripcionDAO(conexion);
+        
+        
         //Llamar al metodo listar uno
         //filmografiaDAO.listOne(1);
         //generoDAO.listOne();
@@ -63,7 +68,15 @@ public class Main {
         List<Filmografia> peliculas = filmografiaDAO.listAll();
         System.out.println("=== LISTAR TODOS ===");
         peliculas.forEach(System.out::println);
-
+        
+        List<Reparto> repartos = repartoDAO.listAll();
+        System.out.println("=== LISTAR TODOS ===");
+        repartos.forEach(System.out::println);
+        
+         List<Suscripcion> suscripcion = suscripcionDAO.listAll();
+        System.out.println("=== LISTAR TODOS ===");
+        suscripcion.forEach(System.out::println);
+        
         //Cerrar conexion
         DatabaseManager.desconectar();
 

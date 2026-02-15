@@ -22,6 +22,9 @@ public class Reparto {
         this.nombre_actor = nombre_actor;
         this.papel = papel;
     }
+
+    public Reparto() {
+    }
     
     //Getter and Setter
 

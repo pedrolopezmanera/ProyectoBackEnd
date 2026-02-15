@@ -27,6 +27,9 @@ public class Suscripcion {
         this.fecha_contratacion = fecha_contratacion;
         this.fecha_fin = fecha_fin;
     }
+
+    public Suscripcion() {
+    }
     
     //Getter and Setter
 
